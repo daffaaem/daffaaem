@@ -22,8 +22,8 @@ My name is Daffa Ammar Mahendra, i am a 5th semester undergraduate student at Un
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/daffaaem">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffaaem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffaaem&layout=compact&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daffaaem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daffaaem&layout=compact&theme=algolia"/>
 </a>
 </p>
 
