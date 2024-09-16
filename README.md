@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, there 👋
+
+My name is Daffa Ammar Mahendra, i am a 5th semester undergraduate student at Universitas Pembangunan Nasional Veteran Jawa Timur majoring in Informatics Engineering.
+
+* 🔭 My current occupation is a cohort in the Bangkit Team as a Cloud Computing cohort 2024 Batch 2.
+* 🌱 I'm currently learning about cloud technology
+* 📫 How to reach me: daffaammar2004@gmail.com
+* ⚡ Fun Fact: Gamer
 
 <!--
 **daffaaem/daffaaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
